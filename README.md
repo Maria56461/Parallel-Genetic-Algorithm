@@ -3,7 +3,7 @@ Here is an implementation solving The Knapsack Problem in C. The algorithm is pa
 
 ## Maria-Alexandra Barbu, 335CA
 
-    Pentru a paraleliza programul am inclus biblioteca "pthread.h". Functia
+Pentru a paraleliza programul am inclus biblioteca "pthread.h". Functia
 pe care am paralelizat-o este "run_genetic_algorithm" din fisierul
 "genetic_algorithm.c". Pentru ca functia sa primeasca un singur argument, am
 creat o structura in fisierul "argument.h". Aceasta structura a primit ca
